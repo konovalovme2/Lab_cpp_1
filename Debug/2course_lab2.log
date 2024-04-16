@@ -1,0 +1,20 @@
+﻿  2course_lab2.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\2course_lab2.cpp(5,10): error C2039: 'cout': is not a member of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\2course_lab2.cpp(5,15): error C2065: 'cout': undeclared identifier
+  Array.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(27,8): error C2039: 'ostream': is not a member of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(27,15): error C2143: syntax error: missing ';' before '&'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(27,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(27,33): error C2039: 'ostream': is not a member of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(27,46): error C2238: unexpected token(s) preceding ';'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(28,8): error C2039: 'istream': is not a member of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(28,15): error C2143: syntax error: missing ';' before '&'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(28,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(28,33): error C2039: 'istream': is not a member of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\Array.h(28,45): error C2238: unexpected token(s) preceding ';'
+  Generating Code...

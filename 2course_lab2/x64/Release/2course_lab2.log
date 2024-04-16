@@ -1,0 +1,8 @@
+﻿  2course_lab2.cpp
+D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\2course_lab2.cpp(38,34): warning C4101: e: неиспользованная локальная переменная
+  Array.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  2course_lab2.vcxproj -> D:\Файлы\Образование\ОмГУ\2 курс\4 семестр\C++\Задания 1 сем\2course_lab2\x64\Release\2course_lab2.exe
